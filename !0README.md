@@ -1,6 +1,10 @@
 # Forum-contributions
 Warhammer CE and 9th age contributions
 
+WHFB Battle Bible 8.1
+WHFB 8.0 rules updated with the last errata and FAQs released by GW. 
+https://www.dropbox.com/s/jzs7fu7x39stbu9/WHFB%20BattleBible%208th%20Ed.pdf?dl=0
+
 Warhammer CE:
 http://www.warseer.com/forums/showthread.php?373349-Warhammer-CE-the-definitive-rule-set-for-WFB-veterans
 
