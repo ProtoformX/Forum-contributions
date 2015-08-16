@@ -1,6 +1,10 @@
 # Forum-contributions
 Warhammer CE and 9th age contributions
 
+All trademarks, copywrite etc etc etc goes to GW.
+This resource and information repositories are simply for making competition and balance changes
+to the game for the community especially after GW effectively abandoned it.
+
 Credit due to all those who posted their suggestions, you know who you are.
 
 My goal is to go through various forum threads, and aggregate them for easy reference so people aren’t double posting, and people don’t need to go through every post themselves.
