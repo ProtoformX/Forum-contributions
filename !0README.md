@@ -5,6 +5,9 @@ All trademarks, copywrite etc etc etc goes to GW.
 This resource and information repositories are simply for making competition and balance changes
 to the game for the community especially after GW effectively abandoned it.
 
+This resource and information repositories are simply for making competition and balance changes to the game for the community especially after GW effectively abandoned it. The goal of this article is to allow people to make contributions and also permit people to see what everyone else wants to add or change without permanently losing the original core rules that the devs have set up. This is an imperfect solution, but permits everyone to participate and keep track of things without the creations of problems.
+
+
 Credit due to all those who posted their suggestions, you know who you are.
 
 My goal is to go through various forum threads, and aggregate them for easy reference so people aren’t double posting, and people don’t need to go through every post themselves.
@@ -47,4 +50,3 @@ http://warhammer.org.uk/phpBB/viewtopic.php?f=98&t=130308
 Board index » General Discussion » Warhammer Fantasy » 9th Age
 Combined profiles idea
 http://warhammer.org.uk/phpBB/viewtopic.php?f=98&t=130426
-
