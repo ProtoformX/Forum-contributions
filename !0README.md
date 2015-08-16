@@ -1,14 +1,20 @@
 # Forum-contributions
 Warhammer CE and 9th age contributions
 
+Warhammer CE:
+http://www.warseer.com/forums/showthread.php?373349-Warhammer-CE-the-definitive-rule-set-for-WFB-veterans
+
+9th Age:
+http://www.the-ninth-age.com/news/
+
+Openhammer:
+http://www.openhammer.org/
+
 All trademarks, copywrite etc etc etc goes to GW.
 This resource and information repositories are simply for making competition and balance changes
 to the game for the community especially after GW effectively abandoned it.
 
-This resource and information repositories are simply for making competition and balance changes to the game for the community especially after GW effectively abandoned it. The goal of this article is to allow people to make contributions and also permit people to see what everyone else wants to add or change without permanently losing the original core rules that the devs have set up. This is an imperfect solution, but permits everyone to participate and keep track of things without the creations of problems.
-
-
-Credit due to all those who posted their suggestions, you know who you are.
+This resource and information repository is simply for making competition and balance changes to the game for the community especially after GW effectively abandoned it. The goal of this article is to allow people to make contributions and also permit people to see what everyone else wants to add or change without permanently losing the original core rules that the devs have set up. This is an imperfect solution, but permits everyone to participate and keep track of things without the creations of problems.
 
 My goal is to go through various forum threads, and aggregate them for easy reference so people aren’t double posting, and people don’t need to go through every post themselves.
 
