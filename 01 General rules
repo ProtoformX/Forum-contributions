@@ -1,0 +1,132 @@
+Line of sight
+Make line of sight in order of height: swarms, infantry, cavalry/monstrous infantry, monsters.
+This would then be impacted by terrain, and chariots. I’m not sure what to do about chariots, since you have elven/undead chariots, and then you have the Skaven screaming bell. Which is in a class of it’s own in terms of height.
+
+unit formation and models
+{Back to Unit Strenght rules;
+Phalanx and Shieldwall formations as in WH Historical}
+
+Movement
+
+{No more random charge movement, 2x M was good, Cavalry counter charges as in WH Historical, Units with more ranks than lines can't wheel}
+
+The increase in randomness was to allow pre measurement to be done in lots of shooting, movement, and magic. So I think putting back in the fixed charging and simply allowing measuring to happen is permissible.
+After all, archers who practice every day should know the limits of their range/abilities right?
+Same with infantry and charging.
+
+
+
+Movement
+One of the major criticisms against 8th was that charging is very luck dependant (random charging distances) and does not have a real impact on the game. I would strongly advice making the charge more important while still maintaining the 8th editions basic rules.
+
+Proposed changes:
+[*] Units that charge into combat receive +D3 Initiative in the first round of combat (great weapons don't benefit from this rule)
+[*] Units with great weapons loose ASL in the first round of combat if they attacked (therefore striking in initiative order)
+[*] Charging distances are determined by movement value + 4 D3 or 6 D3 (swiftstrider)
+
+Especially the last point is very important - it is basically the 8th edition system with less variance and would therefore be much more suited for competitive play:
+
+2D6 additional charging distance
+minimum: 2"
+average: 7"
+maximum: 12"
+Difference between minimum and maximum: 10"
+Difference between minimum/maximum and median: 5"
+
+4D3 additional charging distance
+minimum: 4"
+average: 8"
+maximum: 12"
+Difference between minimum and maximum: 8"
+Difference between minimum/maximum and median: 4"
+
+--> all those snake eye charges which failed wouldn't be possible with this rule.
+
+
+Charging changed to 2D3+M, swiftstride 3D3+M. I've said 3D3 rather than 2D6 as this keeps units cavalry max charge not much higher than it's march move.
+Return off old terrain rules when moving so they are a little more tactical
+
+
+
+
+Steadfast
+
+{Steadfast needs a slight toning down. Not a full-bore nerfing, but a mild decrease on power. Without it average and (especially!) cheap infantry has zero role in the game. With it as it is, they are powerful out of proportion to their points. Disrupting breaking steadfast might be a bit much, but I suspect it would take a significant amount of playtesting to determine.}
+
+I don’t understand this, I’ve always played steadfast as losing steadfast when disrupted.
+Disrupted means any flank or rear charge by a unit with complete ranks.
+
+if you’re saying increase the number of things that can disrupt, then I think most things with a complete rank should disrupt? Maybe?
+But I think skirmishers and individual models shouldn’t under any situation. Flank and rear charge by anything still gives +CR in combat right? Maybe it should if it doesn’t.
+
+
+b.) Steadfast
+Steadfast is a very important mechanic because it gives slow infantry an edge against faster units (cav. / monster / flyers / ...) because it is easier to get ranks with them. Nevertheless the current rule does not reward good positioning and manoeuvring. Mostly it's just showing blocks of endless ranks into another without any tactical aspect.
+
+
+Proposed changes:
+[*]Steadfast may not be used if a unit is engaged in the flank / rear by at least:
+5 models of infantry / cavalry or
+3 models of monstrous infantry / cavalry or
+1 monster
+
+This is one of the most important changes - please make Warhammer more tactical and reward players who are able to outmanoeuvre their opponents.
+
+If unit strength comes back it should be cancel with a unit strength of 10 and more, if not, with two ranks.
+
+
+{Subsection of charge reaction.
+
+Being charged is a harrowing situation at the best of times. Even the most steeled of warriors would find it difficult to keep their wits about them. This is a test taken after you would normally roll for fear and terror; this is because a failed fear test would negate steadfast anyway, as would a failed terror test as the unit is panicking.
+This test is taken only if the unit that is charging is on a larger base size than the target unit.-and must be taken each time a unit that would ordinarily have steadfast is charged. Even if that means it loses steadfast for the next round of combat. Few units would be able to cope with being out manoeuvred and engaged in combat so well.
+
+(Example, Infantry that would normally be on a 20mm base would not need to take a test if it is being charged by infantry that were also on a 20mm base).
+
+The charged unit may attempt to claim steadfast in the first round of combat by rolling a leadership test. This is modified by the following (unless it is stubborn):-
+
+Flank (Minus 1)
+Rear (Minus 2)
+Already engaged in combat (minus 2).
+
+(Example: A unit of infantry already engaged in combat is charged in the flank, it suffers -1 to its Leadership for already being in combat, and a further -2 for being flanked.)
+
+In the case of multiple charges, after all the charges are declared, take a steadfast check based on the highest negative modifiers.}
+
+Terrain
+{how about a rule for pond/lake terrain. there are many more of them on the tables I see than rivers or streams.}
+
+If you mean magic/mystical tables like forests I don’t see why not? But I couldn’t for the life of me figure out what options you’d give to water terrain.
+
+
+{While we're at it... for the sake of being inclusive, perhaps at some point in the future we should take a look at the Sigmarites and see how to bring them in line with the 9th Age. At least SOME kids are going to pick up AoS and find it lacking. Allowing them to use Sigmarites in 9th Age eases their transition from kiddy wargaming to adult wargaming by not requiring them to buy a whole different army to play.}
+
+I agree.
+If it’s bases you can buy square bases, but if people have already glued and painted round bases, it’ll be a pain in the ass to change them.
+
+As for rules though……… I dunno… But I do know you should contact the devs to any ruleset. I’d stick to the biggest and best warhammer CE in warseer, and 9th age in warhammer.org.uk.
+Just don’t go making your own rules, as a community of a wounded game, we need as few fractures as possible.
+
+
+Fleeing
+{And what happens when two units are fighting perpendicular to the battleline? Do they still flee to your side of the board?
+
+I think directly away - as in, turn 180 degrees away from the other unit and go - works fine as a simplification. Center to center, as you say, was easily confused, and even easier to manipulate.}
+
+What about, fleeing directly away from the biggest enemy unit in the front arc?
+That way it becomes mostly likely the one in front, but if your fleeing unit can see a big dragon, or a bigger unit of infantry to the side, the flee direction alters.
+
+While I can understand that fleeing units “could” flee in any direction; they wouldn’t stop and gaze around for an enemy dragon or bigger enemy outside their front arc when breaking to flee.
+I also think the chasing unit should only chase within in its front arc, and wheeling takes up movement as usual. I also think there might be scarier enemies that you’d flee from first, before the one that’s right in front of you.
+
+
+Building rules
+
+This is from my garage but what we've experimented with is...
+- Units in buildings are Stubborn.
+- A 4-sided building can be assaulted by up to 4 units and 10 models from each side can assault however still only 10 defending models can defend.
+- If the unit defending the building wins combat, the losing unit(s) are all pushed 1" away. However if the attacking unit(s) win, combat will continue on subsequent turns (challenges will continue, etc)
+- If a unit defending a building is defeated and fails its break test, it is pushed out of the building opposite to the assaulting unit with the most models. If the building is surrounded on all sides when it fails its break test, it is automatically destroyed.
+- Buildings can hold 10 wounds worth of models per floor (unless it's a huge building then you can rule more)
+- Otherwise building rules as normal (cavalry can't occupy a building, flaming attacks re-roll to wound, etc)
+
+Taking a building offers the benefits of cover, being Stubborn, a superior tactical position for wizards and missile troops, and limiting attacks against characters. However the trade off is when being attacked from multiple sides, it becomes very difficult to hold. We feel this is fairly realistic and has the added bonus of working well in the game.                     
