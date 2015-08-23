@@ -1,10 +1,10 @@
 https://docs.google.com/document/d/1M0XTyU40VZBiwfpbqRONt7mM0pAIILSXh6gUAcTTla8/edit?usp=sharing
 
-Hello!
+### Hello!
 
 The point of my project is to get forum rules suggestions in one place, so that there is less double posting; hit them with the kiss bat (keep it simple stupid)
 {Warhammer is a game, and not a string of quantum physics equations}.
-Hopefully I will finish with practical solutions/options that are also reasonable for competitive/tournament play. 
+Hopefully I will finish with practical solutions/options that are also reasonable for competitive/tournament play.
 
 I don’t know a better method, but people can make publicly viewable comments on the documents I put up.
 You  might need to use the link at the top of each article before you are given a choice to comment (top right).
