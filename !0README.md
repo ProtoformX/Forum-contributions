@@ -1,8 +1,18 @@
-# Forum-contributions
-Warhammer CE and 9th age contributions
+https://docs.google.com/document/d/1M0XTyU40VZBiwfpbqRONt7mM0pAIILSXh6gUAcTTla8/edit?usp=sharing
+
+Hello!
+
+The point of my project is to get forum rules suggestions in one place, so that there is less double posting; hit them with the kiss bat (keep it simple stupid)
+{Warhammer is a game, and not a string of quantum physics equations}.
+Hopefully I will finish with practical solutions/options that are also reasonable for competitive/tournament play. 
+
+I don’t know a better method, but people can make publicly viewable comments on the documents I put up.
+You  might need to use the link at the top of each article before you are given a choice to comment (top right).
+
+All legal trademarks, intellectual property, copywrite etc etc etc goes to GamesWorkshop.
 
 WHFB Battle Bible 8.1
-WHFB 8.0 rules updated with the last errata and FAQs released by GW. 
+WHFB 8.0 rules updated with errata and FAQ by GW. 
 https://www.dropbox.com/s/jzs7fu7x39stbu9/WHFB%20BattleBible%208th%20Ed.pdf?dl=0
 
 Warhammer CE:
@@ -14,45 +24,35 @@ http://www.the-ninth-age.com/news/
 Openhammer:
 http://www.openhammer.org/
 
-All trademarks, copywrite etc etc etc goes to GW.
-This resource and information repositories are simply for making competition and balance changes
-to the game for the community especially after GW effectively abandoned it.
+Aggregated forum contributions
+https://goo.gl/TM1fKl
 
-This resource and information repository is simply for making competition and balance changes to the game for the community especially after GW effectively abandoned it. The goal of this article is to allow people to make contributions and also permit people to see what everyone else wants to add or change without permanently losing the original core rules that the devs have set up. This is an imperfect solution, but permits everyone to participate and keep track of things without the creations of problems.
-
-My goal is to go through various forum threads, and aggregate them for easy reference so people aren’t double posting, and people don’t need to go through every post themselves.
-
-Ideally, I’d use a service that lets people make public suggestions and inputs without making permanent changes to anything.
-
-At least that’s the theory.
-
-This is a community project with community input, I want to minimise how much I change the rules while I aggregate them. With one exception! For the sake of everyone, my aim is practicality and simpleness without dumbing things down. Warhammer is a game, and not a string of quantum physics equations.
 
 Right now I’m mainly tackling:
-
 
 Board index » General Discussion » Warhammer Fantasy » 9th Age
 Rulebook
 http://warhammer.org.uk/phpBB/viewtopic.php?f=98&t=130119
 
-
 Board index » General Discussion » Warhammer Fantasy » 9th Age
 The 9th Age Version 0.1 Alpha
 http://warhammer.org.uk/phpBB/viewtopic.php?f=98&t=130350
 
-
 Board index » General Discussion » Warhammer Fantasy » 9th Age
 The 9th Age general discussion
 http://warhammer.org.uk/phpBB/viewtopic.php?f=98&t=130118
-
 
 Forum » Games Workshop General Discussion » GW Rules Development Forum
 Warhammer CE: the definitive rule set for WFB veterans
 http://www.warseer.com/forums/showthread.php?373349-Warhammer-CE-the-definitive-rule-set-for-WFB-veterans
 
 
-Special mention to
+Forum » Warhammer Discussion » Warhammer General Discussion
+The Ninth Age (by ETC and Swedish Comp) http://www.warseer.com/forums/showthread.php?412517-The-Ninth-Age-%28by-ETC-and-Swedish-Comp%29
 
+
+
+Special mention to
 Board index » General Discussion » Warhammer Fantasy » 9th Age
 Building Rules
 http://warhammer.org.uk/phpBB/viewtopic.php?f=98&t=130308
@@ -60,3 +60,13 @@ http://warhammer.org.uk/phpBB/viewtopic.php?f=98&t=130308
 Board index » General Discussion » Warhammer Fantasy » 9th Age
 Combined profiles idea
 http://warhammer.org.uk/phpBB/viewtopic.php?f=98&t=130426
+
+
+
+For reference: Other collaboration websites
+
+https://gitlab.com/matthcnet/Forumco...ns/tree/master github for writing
+http://prose.io/#Warhammer9thCE/Forum-contributions github prose overlay
+https://www.penflip.com/warhammer9thce/warhammer9thce github for writers
+https://quip.com/ quip is not publicly viewable but best interface
+Poll-Please choose your favourite: https://strawpoll.me/5230367
